@@ -503,25 +503,7 @@ export const roomsData = {
       }
     ],
     assets: [
-      { icon: "/icons/studentChair.svg", name: "Kursi Plastik", count: "32 unit" },
-      { icon: "/icons/table.svg", name: "Meja Victor", count: "21 unit" }, 
-      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
-      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
-      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
-      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
-      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
-      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
-      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
-      { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit" },
-      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
-      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
-      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
-      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
-      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
-      { icon: "/icons/computer.svg", name: "Komputer", count: "32 unit" },
-      { icon: "/icons/greenboard.svg", name: "Papan Tulis Hijau", count: "1 unit" },
-      { icon: "/icons/router.svg", name: "Router", count: "1 unit" },
-    
+      { icon: "/icons/jam.svg", name: "Jam Dinding", count: "1 unit" }
     ],
     mapImage: "/maps/r030402.jpg",
     legendItems: [
