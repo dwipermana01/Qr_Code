@@ -498,7 +498,7 @@ export const roomsData = {
         alt: "Tampak Belakang Lab.Komputer"
       },
        {
-        src: "/images/rooms/labkomputer/labkom-view1.jpg",
+        src: "/images/rooms/labkomputer/labkom-view4.jpg",
         alt: "Tampak Belakang Lab.Komputer"
       }
     ],
