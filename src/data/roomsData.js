@@ -520,7 +520,8 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/computer.svg", name: "Komputer", count: "32 unit" },
       { icon: "/icons/greenboard.svg", name: "Papan Tulis Hijau", count: "1 unit" },
-      { icon: "/icons/router.svg", name: "Router", count: "1 unit" }
+      { icon: "/icons/router.svg", name: "Router", count: "1 unit" },
+      { icon: "/icons/airConditioner.svg", name: "AC", count: "1 unit" }
     ],
     mapImage: "/maps/r030402.jpg",
     legendItems: [
