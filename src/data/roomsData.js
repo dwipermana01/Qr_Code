@@ -515,7 +515,7 @@ export const roomsData = {
     ],
     mapImage: "D:\Inventory\inventory\public\maps\R03.04.02.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Pintu Masuk", color: "#fffff" }
     ]
   },
 
