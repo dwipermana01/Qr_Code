@@ -527,7 +527,25 @@ export const roomsData = {
     ],
     mapImage: "/maps/r030402.jpg",
     legendItems: [
-      { number: 1, name: "Pintu Masuk", color: "#fffff" }
+      { number: 1, name: "Pintu Masuk", color: "#fffff" },
+      { number: 2, name: "Jam Dinding", color: "#2B9DF5" },
+      { number: 3, name: "IP Camera", color: "#FDFF84" },
+      { number: 4, name: "Projector", color: "#FF7978" },
+      { number: 5, name: "Papan Tulis Hijau", color: "#00AF50" },
+      { number: 6, name: "Bendera", color: "#892D3A", textColor: "#fffff"},
+      { number: 7, name: "Papan Tulis", color: "#641B2E", textColor: "#fffff"},
+      { number: 8, name: "Layar Proyektor", color: "#fed2e2"},
+      { number: 9, name: "Bingkai", color: "#251FB3"},
+      { number: 10, name: "Layar Proyektor", color: "#FED2E3"},
+      { number: 11, name: "Speaker", color: "#7C7C7C", textColor: "#fffff"},
+      { number: 12, name: "Salib", color: "#14183D", textColor: "#fffff"},
+      { number: 13, name: "Meja Victor", color: "#869FF9", textColor: "#fffff"},
+      { number: 14, name: "Kursi Plastik", color: "#869FF9", textColor: "#fffff"},
+      { number: 15, name: "Komputer", color: "#696969", textColor: "#fffff"},
+      { number: 16, name: "Jendela", color: "#fffff"},
+      { number: 17, name: "Router", color: "#f4f4f4"},
+      { number: 18, name: "AC", color: "#f4f4f4"},
+      { number: 19, name: "Lemari Kayu", color: "#FF7E79"}
     ]
   },
 
