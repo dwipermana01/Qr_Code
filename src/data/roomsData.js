@@ -80,7 +80,7 @@ export const roomsData = {
   },
 
   "030102": {
-    name: "Kelas VIII C",
+    name: "",
     location: "Lantai 1 - Gedung SMP",
     capacity: "",
     size: "",
@@ -486,8 +486,20 @@ export const roomsData = {
     roomNumber: "R03-04-02",
     images: [
       {
-        src: "",
-        alt: ""
+        src: "/images/rooms/labkomputer/labkom-view1.jpeg",
+        alt: "Tampak Depan Lab.Komputer"
+      },
+       {
+        src: "/images/rooms/labkomputer/labkom-view2.jpeg",
+        alt: "Tampak Samping Lab.Komputer"
+      },
+       {
+        src: "/images/rooms/labkomputer/labkom-view3.jpeg",
+        alt: "Tampak Belakang Lab.Komputer"
+      },
+       {
+        src: "/images/rooms/labkomputer/labkom-view1.jpeg",
+        alt: "Tampak Belakang Lab.Komputer"
       }
     ],
     assets: [
