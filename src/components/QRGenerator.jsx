@@ -6,7 +6,7 @@ const QRGenerator = () => {
   const [qrCodes, setQrCodes] = useState({});
   const [loading, setLoading] = useState(true);
   
-  const baseUrl = 'http://localhost:5173/'; // Ganti dengan domain Anda
+  const baseUrl = 'qr-code-flame-nine.vercel.app'; // Ganti dengan domain Anda
 
   useEffect(() => {
     const generateQRCodes = async () => {
