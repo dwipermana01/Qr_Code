@@ -486,19 +486,19 @@ export const roomsData = {
     roomNumber: "R03-04-02",
     images: [
       {
-        src: "/images/rooms/labkomputer/labkom-view1.jpeg",
+        src: "/images/rooms/labkomputer/labkom-view1.jpg",
         alt: "Tampak Depan Lab.Komputer"
       },
        {
-        src: "/images/rooms/labkomputer/labkom-view2.jpeg",
+        src: "/images/rooms/labkomputer/labkom-view2.jpg",
         alt: "Tampak Samping Lab.Komputer"
       },
        {
-        src: "/images/rooms/labkomputer/labkom-view3.jpeg",
+        src: "/images/rooms/labkomputer/labkom-view3.jpg",
         alt: "Tampak Belakang Lab.Komputer"
       },
        {
-        src: "/images/rooms/labkomputer/labkom-view1.jpeg",
+        src: "/images/rooms/labkomputer/labkom-view1.jpg",
         alt: "Tampak Belakang Lab.Komputer"
       }
     ],
