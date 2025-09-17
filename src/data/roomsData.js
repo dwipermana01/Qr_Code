@@ -80,7 +80,7 @@ export const roomsData = {
   },
 
   "030102": {
-    name: "",
+    name: "Kelas VIII C",
     location: "Lantai 1 - Gedung SMP",
     capacity: "",
     size: "",
@@ -117,7 +117,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit"},
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit"}
     ],
-    mapImage: "",
+    mapImage: "inventory\public\maps\r030202.jpg",
     legendItems: [
       { number: "", name: "", color: ""}
     ]
