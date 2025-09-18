@@ -173,7 +173,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit"},
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit"}
     ],
-    mapImage: "/maps/r030202.jpg",
+    mapImage: "",
     legendItems: [
       { number: 1, name: "Pintu Kelas", color: "#fffff"}
     ]
