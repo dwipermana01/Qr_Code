@@ -678,15 +678,15 @@ export const roomsData = {
     ]
   },
 
-  "030405": {
-    name: "Marketplace",
+  "030406": {
+    name: "",
     location: "Lantai 4 - Gedung SMP",
     capacity: "",
     size: "",
     nameClass: "Marketplace",
     building: "SMP",
     floor: "4",
-    roomNumber: "R03-04-05",
+    roomNumber: "R03-04-06",
     images: [
       {
         src: "",
