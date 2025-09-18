@@ -542,7 +542,8 @@ export const roomsData = {
       { number: 16, name: "Jendela", color: "#fffff"},
       { number: 17, name: "Router", color: "#f4f4f4"},
       { number: 18, name: "AC", color: "#f4f4f4"},
-      { number: 19, name: "Lemari Kayu", color: "#FF7E79"}
+      { number: 19, name: "Lemari Kayu", color: "#FF7E79"},
+      { number: 20, name: "CCTV", color: "#f4f4f4"}
     ]
   },
 
