@@ -677,6 +677,50 @@ export const roomsData = {
       { number: "", name: "", color: "" }
     ]
   },
+
+  "030405": {
+    name: "Marketplace",
+    location: "Lantai 4 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Marketplace",
+    building: "SMP",
+    floor: "4",
+    roomNumber: "R03-04-05",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
   
   // Contoh kelas dengan gambar dari URL eksternal
   "tk-a": {
