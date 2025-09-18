@@ -679,11 +679,11 @@ export const roomsData = {
   },
 
   "030406": {
-    name: "",
+    name: "Ruang PAK DWI",
     location: "Lantai 4 - Gedung SMP",
     capacity: "",
     size: "",
-    nameClass: "Marketplace",
+    nameClass: "Ruang PAK DWI",
     building: "SMP",
     floor: "4",
     roomNumber: "R03-04-06",
