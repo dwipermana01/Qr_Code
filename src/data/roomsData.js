@@ -123,6 +123,62 @@ export const roomsData = {
     ]
   },
 
+  "030103": {
+    name: "Ruangan Meeting",
+    location: "Lantai 1 - Gedung SMP",
+    capacity: "12 Orang",
+    size: "",
+    nameClass: "Ruangan Meeting",
+    building: "SMP",
+    floor: "1",
+    roomNumber: "R03-01-02",
+    images: [
+      {
+        src: "/images/rooms/ruangmeeting/meeting1.jpeg",
+        alt: "Tampak Depan TV",
+      },
+      {
+        src: "/images/rooms/ruangmeeting/meeting2.jpeg",
+        alt: "Tampak Depan",
+      },
+      {
+        src: "/images/rooms/ruangmeeting/meeting4.jpeg",
+        alt: "Tampak Dalam 1",
+      },
+      {
+        src: "/images/rooms/ruangmeeting/meeting5.jpeg",
+        alt: "Tampak Dalam 2",
+      },
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit"},
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit"},
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit"},
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit"},
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit"},
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit"},
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit"},
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit"},
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit"},
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set"},
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit"},
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit"},
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit"}
+    ],
+    mapImage: "/maps/r030202.jpg",
+    legendItems: [
+      { number: 1, name: "Pintu Kelas", color: "#fffff"}
+    ]
+  },
+
   "030201": {
     name: "",
     location: "",
