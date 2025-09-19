@@ -69,7 +69,7 @@ const MapModal = ({ isOpen, onClose, legendItems, mapImage }) => {
               {legendItems.map((item, index) => (
                 <div
                   key={index}
-                  className="flex items-center gap-2 sm:gap-3 p-2 sm:p-3 bg-white rounded-lg sm:rounded-xl border hover:border-green-500 hover:translate-x-1 sm:hover:translate-x-2 transition-all duration-300 hover:shadow-md"
+                  className="flex items-center gap-2 sm:gap-3 p-2 sm:p-3 bg-white rounded-lg sm:rounded-xl border hover:border-blue-500 hover:translate-x-1 sm:hover:translate-x-2 transition-all duration-300 hover:shadow-md"
                 >
                   <div
                     className="text-white w-6 h-6 sm:w-8 sm:h-8 rounded-full flex items-center justify-center font-bold text-sm sm:text-sm flex-shrink-0"
