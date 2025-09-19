@@ -61,7 +61,7 @@ const MapModal = ({ isOpen, onClose, legendItems, mapImage }) => {
           </div>
 
           {/* Legend */}
-          <div className="bg-gray-50 p-4 sm:p-6 rounded-xl sm:rounded-2xl border-l-4 border-green-500">
+          <div className="bg-gray-50 p-4 sm:p-6 rounded-xl sm:rounded-2xl border-l-4 border-blue-500">
             <h3 className="text-lg sm:text-xl font-bold text-center mb-4 sm:mb-6">
               Keterangan Denah
             </h3>
