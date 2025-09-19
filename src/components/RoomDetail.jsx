@@ -230,7 +230,7 @@ const RoomDetail = () => {
               <span>Denah Ruangan</span>
             </h2>
             <div 
-              className="bg-gray-50 p-3 sm:p-4 lg:p-6 rounded-xl sm:rounded-2xl border-2 border-gray-200 text-center cursor-pointer hover:border-green-500 hover:scale-102 transition-all duration-300 hover:shadow-lg"
+              className="bg-gray-50 p-3 sm:p-4 lg:p-6 rounded-xl sm:rounded-2xl border-2 border-gray-200 text-center cursor-pointer hover:border-blue-500 hover:scale-102 transition-all duration-300 hover:shadow-lg"
               onClick={openModal}
             >
               <div className="relative w-full bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg sm:rounded-xl shadow-inner overflow-hidden">
