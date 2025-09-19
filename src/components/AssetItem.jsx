@@ -5,7 +5,7 @@ const AssetItem = ({ icon, name, count }) => {
   const isSvg = icon && (icon.startsWith('/') || icon.startsWith('http')) && icon.includes('.svg');
 
   return (
-    <div className="bg-gradient-to-br from-white to-gray-50 p-3 sm:p-4 md:p-6 rounded-xl sm:rounded-2xl border-2 border-gray-200 text-center hover:border-green-500 hover:-translate-y-1 sm:hover:-translate-y-2 transition-all duration-300 hover:shadow-lg group">
+    <div className="bg-gradient-to-br from-white to-gray-50 p-3 sm:p-4 md:p-6 rounded-xl sm:rounded-2xl border-2 border-gray-200 text-center hover:border-blue-500 hover:-translate-y-1 sm:hover:-translate-y-2 transition-all duration-300 hover:shadow-lg group">
       <div className="text-2xl sm:text-3xl md:text-4xl mb-2 sm:mb-3 group-hover:scale-110 transition-transform duration-300 flex justify-center items-center">
         {isSvg ? (
           <div className="relative">
