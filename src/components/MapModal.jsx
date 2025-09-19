@@ -74,7 +74,7 @@ const MapModal = ({ isOpen, onClose, legendItems, mapImage }) => {
                   <div
                     className="text-white w-6 h-6 sm:w-8 sm:h-8 rounded-full flex items-center justify-center font-bold text-sm sm:text-sm flex-shrink-0"
                     style={{
-                      backgroundColor: item.color || '#22c55e',
+                      backgroundColor: item.color || '#1d30c7ff',
                       border: `2px solid ${item.outline || '#374151'}`,
                       color: item.textColor || '#000000'
                     }}
