@@ -63,7 +63,7 @@ const QRGenerator = () => {
             {Object.entries(qrCodes).map(([roomId, qrDataUrl]) => (
               <div 
                 key={roomId}
-                className="bg-gray-50 p-6 rounded-2xl border-2 border-gray-200 hover:border-green-500 transition-all duration-300 hover:shadow-lg text-center"
+                className="bg-gray-50 p-6 rounded-2xl border-2 border-blue-200 hover:border-blue-500 transition-all duration-300 hover:shadow-lg text-center"
               >
                 <h3 className="text-xl font-semibold mb-4 text-gray-800">
                   {roomsData[roomId].name}
